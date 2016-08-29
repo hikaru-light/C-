@@ -1,1 +1,1 @@
-# C-
+# This is my repository for study.
